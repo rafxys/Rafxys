@@ -1,4 +1,4 @@
-# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdjYW16dDZsZWFkcnF4ZTlubHVicXV3azk1b3pyZGRhODFneTZzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rw6NcOZHUtqrj8Zhjh/giphy.gif" width="100"> Fala! Eu sou o Rafael Galvão
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdjYW16dDZsZWFkcnF4ZTlubHVicXV3azk1b3pyZGRhODFneTZzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rw6NcOZHUtqrj8Zhjh/giphy.gif" width="60"> Fala! Eu sou o Rafael Galvão
 <div style="display: inline_block">
   <img align="center" alt="JS" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="TS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
