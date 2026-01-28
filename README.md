@@ -43,7 +43,8 @@ Dev Full Stack atualmente focado no ecossistema **React** e **Next.js** e expand
 
 <div align="center">
   <a href="https://github.com/rafxys">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafxys&hide=stars,issues&show_icons=true&theme=transparent&title_color=EE0000&text_color=BEBEBE&icon_color=EE0000&hide_border=true" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafxys&hide=stars,issues,contribs&commits_year=2025&show_icons=true&theme=transparent&title_color=EE0000&text_color=BEBEBE&icon_color=EE0000&hide_border=true" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafxys&hide=stars,issues,contribs&commits_year=2026&show_icons=true&theme=transparent&title_color=EE0000&text_color=BEBEBE&icon_color=EE0000&hide_border=true" />
   </a>
   <a href="https://github.com/rafxys">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafxys&layout=compact&langs_count=8&theme=transparent&title_color=EE0000&text_color=BEBEBE&icon_color=EE0000&hide_border=true" />
