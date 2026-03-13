@@ -25,7 +25,7 @@
 <br/>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=EE0000&width=435&lines=Dev+Full+Stack;Computer+Science+Student;Buscando+sempre+mais+conhecimento..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=EE0000&width=435&lines=Bem-vindo...;Computer+Science+Student...;Buscando+sempre+mais+conhecimento..." alt="Typing SVG" />
 </p>
 
 🚀 Minha caminhada atualmente...
@@ -36,7 +36,7 @@
 
 🗄️ Fundamentos de Bancos de Dados: Sólido conhecimento teórico em modelagem relacional e domínio do SQL básico (MySQL). Capaz de realizar consultas, filtrar informações e entender como as tabelas se conectam.
 
-🌐 Full-stack como Diferencial: Unindo a capacidade de construir interfaces em Next.js com a inteligência de dados, criando aplicações que não apenas exibem informações, mas geram insights reais.
+💻 Desenvolvimento Web: Tenho um bom domínio na criação de interfaces modernas com Next.js e Tailwind CSS, aplicando boas práticas de código em projetos front-end.
 
 📈 Objetivo: Em busca da minha primeira oportunidade como Estagiário de Dados, focado em transformar grandes volumes de informação em decisões inteligentes.
 
