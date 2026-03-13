@@ -1,17 +1,16 @@
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdjYW16dDZsZWFkcnF4ZTlubHVicXV3azk1b3pyZGRhODFneTZzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rw6NcOZHUtqrj8Zhjh/giphy.gif" width="60"> Fala! Eu sou o Rafael Galvão
 
 <div>
+   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24"/>
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="24"/>
    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="24"/>
    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="24"/>
    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="24"/>
    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="24"/>
-   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24"/>
-  
    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=microsoftpowerbi&logoColor=black" height="24"/>
    <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" height="24"/>
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="24"/>
-   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="24"/>
+  
    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" height="24"/>
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="24"/>
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="24"/>
