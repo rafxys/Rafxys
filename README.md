@@ -28,16 +28,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=EE0000&width=435&lines=Dev+Full+Stack;Computer+Science+Student;Buscando+sempre+mais+conhecimento..." alt="Typing SVG" />
 </p>
 
-Dev Full Stack atualmente focado no ecossistema **React** e **Next.js** e expandindo o meu conhecimento em **Data Science**.
+🚀 Minha caminhada atualmente...
 
+📊 Análise de Dados & BI: Migrando minha base lógica para o mundo dos dados. Desenvolvendo dashboards estratégicos no Power BI e automatizando análises complexas com Excel Avançado (VBA/Power Query).
 
+🐍 Ecossistema Python: Explorando a biblioteca Pandas e NumPy para limpeza e tratamento de dados (ETL), além de dar os primeiros passos em modelos de Machine Learning com Scikit-Learn.
 
-## 🚀 Minha caminhada atualmente...
+🗄️ Fundamentos de Bancos de Dados: Sólido conhecimento teórico em modelagem relacional e domínio do SQL básico (MySQL). Capaz de realizar consultas, filtrar informações e entender como as tabelas se conectam.
 
-- 💻 Desenvolvendo interfaces modernas e performáticas com **Next.js 14+** e **Tailwind CSS**, priorizando código limpo e escalabilidade.
-- 📊 Expandindo horizontes para a **Ciência de Dados**, estudando **Power BI**, **Excel Avançado** e **Machine Learning**.
-- 🛠️ Experiência prática com **Prisma**, **SQL** e modelagem de bancos de dados relacionais.
-- 📈 Buscando unir o poder do desenvolvimento web com a inteligência da análise de dados.
+🌐 Full-stack como Diferencial: Unindo a capacidade de construir interfaces em Next.js com a inteligência de dados, criando aplicações que não apenas exibem informações, mas geram insights reais.
+
+📈 Objetivo: Em busca da minha primeira oportunidade como Estagiário de Dados, focado em transformar grandes volumes de informação em decisões inteligentes.
 
 
 
