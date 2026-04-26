@@ -1,25 +1,7 @@
-# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdjYW16dDZsZWFkcnF4ZTlubHVicXV3azk1b3pyZGRhODFneTZzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rw6NcOZHUtqrj8Zhjh/giphy.gif" width="60"> Fala! Eu sou o Rafael Galvão
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdjYW16dDZsZWFkcnF4ZTlubHVicXV3azk1b3pyZGRhODFneTZzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rw6NcOZHUtqrj8Zhjh/giphy.gif" width="60"> Fala! Sou o Rafa
 
-<div>
-   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24"/>
-   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=microsoftpowerbi&logoColor=black" height="24"/>
-   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" height="24"/>
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="24"/>
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="24"/>
-   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="24"/>
-   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="24"/>
-   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="24"/>
-   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="24"/>
-   
-  
-   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" height="24"/>
-   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="24"/>
-   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="24"/>
-   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="24"/>
-   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" height="24"/>
-   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="24"/>
-   <img alt="Canva" src="https://img.shields.io/badge/Canva-0FACF9?logo=canva&logoColor=white" height="24"/>
-</div>
+
+### 🛠️ Tecnologias e Ferramentas que tenho experiência
 
 
 <br/>
@@ -30,17 +12,51 @@
 
 🚀 Minha caminhada atualmente...
 
-📊 Análise de Dados & BI: Migrando minha base lógica para o mundo dos dados. Desenvolvendo dashboards estratégicos no Power BI e automatizando análises complexas com Excel Avançado (VBA/Power Query).
+📊 Análise de Dados: Migrando minha base lógica para o mundo dos dados. Desenvolvendo dashboards estratégicos no Power BI e automatizando análises complexas com Excel Avançado.
 
-🐍 Ecossistema Python: Explorando a biblioteca Pandas e NumPy para limpeza e tratamento de dados (ETL), além de dar os primeiros passos em modelos de Machine Learning com Scikit-Learn.
-
-🗄️ Fundamentos de Bancos de Dados: Sólido conhecimento teórico em modelagem relacional e domínio do SQL básico (MySQL). Capaz de realizar consultas, filtrar informações e entender como as tabelas se conectam.
+🗄️ Fundamentos de Bancos de Dados: Conhecimento teórico em modelagem relacional e domínio do SQL básico (MySQL). Capaz de realizar consultas, filtrar informações e entender como as tabelas se conectam.
 
 💻 Desenvolvimento Web: Tenho um bom domínio na criação de interfaces modernas com Next.js e Tailwind CSS, aplicando boas práticas de código em projetos front-end.
 
-📈 Objetivo: Em busca da minha primeira oportunidade como Estagiário de Dados, focado em transformar grandes volumes de informação em decisões inteligentes.
+📈 Objetivo: Em busca da minha primeira oportunidade como Estagiário de Dados.
+<br/>
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Linguagens</b><br/>
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="24"/>
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="24"/>
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="24"/>
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="24"/>
+    </td>
+    <td valign="top" width="50%">
+      <b>Data</b><br/>
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24"/>
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="24"/>
+      <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=microsoftpowerbi&logoColor=black" height="24"/>
+      <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" height="24"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Frameworks</b><br/>
+      <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="24"/>
+      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="24"/>
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="24"/>
+      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" height="24"/>
+    </td>
+    <td valign="top">
+      <b>Ferramentas</b><br/>
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="24"/>
+      <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" height="24"/>
+      <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="24"/>
+      <img alt="Canva" src="https://img.shields.io/badge/Canva-0FACF9?logo=canva&logoColor=white" height="24"/>
+    </td>
+  </tr>
+</table>
 
+<br/>
 
 <div align="center">
   <a href="https://github.com/rafxys">
