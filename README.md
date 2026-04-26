@@ -1,13 +1,11 @@
-# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdjYW16dDZsZWFkcnF4ZTlubHVicXV3azk1b3pyZGRhODFneTZzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rw6NcOZHUtqrj8Zhjh/giphy.gif" width="60"> Fala! Sou o Rafa
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdjYW16dDZsZWFkcnF4ZTlubHVicXV3azk1b3pyZGRhODFneTZzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rw6NcOZHUtqrj8Zhjh/giphy.gif" width="60"> Bem-vindo!
 
-
-### 🛠️ Tecnologias e Ferramentas que tenho experiência
 
 
 <br/>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=EE0000&width=435&lines=Bem-vindo...;Computer+Science+Student...;Buscando+sempre+mais+conhecimento..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=EE0000&width=1000&lines=Opa!+Então...;Compartilho+minhas+experiências+em+projetos+por+aqui...;Com+o+intuito+de+buscar+mais+conhecimento" alt="Typing SVG" />
 </p>
 
 🚀 Minha caminhada atualmente...
