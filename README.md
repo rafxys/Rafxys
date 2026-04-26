@@ -23,6 +23,7 @@
   <tr>
     <td valign="top" width="50%">
       <b>Linguagens</b><br/>
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24"/>
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="24"/>
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="24"/>
       <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="24"/>
@@ -30,7 +31,6 @@
     </td>
     <td valign="top" width="50%">
       <b>Data</b><br/>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24"/>
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="24"/>
       <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=microsoftpowerbi&logoColor=black" height="24"/>
       <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" height="24"/>
